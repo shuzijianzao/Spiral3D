@@ -15,4 +15,4 @@
 
 |Picture|Description|
 |---|---|
-|![1](./Picture/one_edited.png)|One|
+|![1](https://shuzijianzao/Spiral3D/Picture/one_edited.png)|One|
