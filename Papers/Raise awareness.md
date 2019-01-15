@@ -15,4 +15,4 @@
 
 |Picture|Description|
 |---|---|
-|![1](..Picture/one_edited)|One|
+|![1](.Picture/one_edited.png)|One|
