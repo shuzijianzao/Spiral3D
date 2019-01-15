@@ -5,6 +5,10 @@
 - A Brief History of Complexsity
 - Controversies
 - The Nine Stage of Life
-- The Road Ahead
-- Misconception
+- The Road Ahead:laughing:
+- Misconception:smile:
 ```
+
+:laughing:
+:smile:
+
