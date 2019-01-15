@@ -15,4 +15,5 @@
 
 |Picture|Description|
 |---|---|
-|![1](https://github.com/shuzijianzao/Spiral3D/Picture/one_edited.png)|One|
+|![1](https://github.com/shuzijianzao/Spiral3D/master/Picture/one_edited.png)|One|
+|![](https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/Item_edited.jpg)|
