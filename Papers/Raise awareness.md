@@ -6,9 +6,12 @@
 - Controversies
 - The Nine Stage of Life
 - The Road Ahead`:laughing:`
-- Misconception`:smile:`
+- Misconception`:smile:`	
 ```
 
 :laughing:
 :smile:
 
+
+|Picture|Description|
+|[![]//Picture/one_edited]|One|
