@@ -11,7 +11,7 @@
 ###### `Medical` & `Health Sciences`
 ###### `Physics` & `Mathematics` 
 ###### `Social Sciences` & `Psychology`
-* Anthropology
+** Anthropology
 * Applied Psychology
 * Archaeology
 * Behavioural Neuroscience
