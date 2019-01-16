@@ -6,7 +6,7 @@
 		<img src="https://img.shields.io/github/stars/badges/shields.svg?label=Stars&style=social">
 	</a>
 	<a href="https://discord.gg/7NT7gRT">
-		<img src="https://img.shields.io/discord/#2301.svg">
+		<img src="https://img.shields.io/discord/7NT7gRT.svg">
 	</a>
 	<a href="https://www.paypal.me/SZJZ">
 		<img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
