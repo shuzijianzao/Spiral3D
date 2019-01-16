@@ -1,6 +1,6 @@
  <h1  align="center"> 
   <br>
-  <a href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/spiral_logo"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/spiral_logo.png" alt="Researcher" width="200"></a>
+  <a href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" alt="Researcher" width="200"></a>
 </h1>
 
 #### Awareness & Emotion
