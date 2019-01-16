@@ -5,15 +5,6 @@
 - A Brief History of Complexsity
 - Controversies
 - The Nine Stage of Life
-- The Road Ahead`:laughing:`
-- Misconception`:smile:`	
+- The Road Ahead
+- Misconception	
 ```
-
-:laughing:
-:smile:
-
-
-|Picture|Description|
-|---|---|
-|![1](https://github.com/shuzijianzao/Spiral3D/master/Picture/one_edited.png)|One|
-|![](https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/Item_edited.jpg)|
