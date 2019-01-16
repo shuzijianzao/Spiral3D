@@ -1,6 +1,6 @@
- <h1  align="center"> 
- 	<a href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/spirallogo"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" alt="Researcher" width="200"></a>
- </h1>
+<p>
+ 	<a align="center" href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/spirallogo"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" alt="Researcher" width="200"></a>
+ 	</p>
  <p align="center">
  	 	<a href="https://github.com/shuzijianzao/Spiral3D">
  		<img src="https://img.shields.io/github/stars/badges/shields.svg?label=Stars&style=social">
