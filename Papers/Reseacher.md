@@ -1,19 +1,26 @@
-# Direction
-### Awareness & Emotion
-### Art & Humanities
-### Businesss & Management
-### Chemistry & Materials Science
-### Earth Sciences & Geograhy
-### Ecommics & Finance
-### Engineering & Computer Science
-### Life Sciences & Biology
-### Medical & Health Sciences
-### Physics & Mathematics 
-### Social Sciences & Psychology
+ <h1  align="center"> 
+  <br>
+  <a href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/spiral+shuzijianzao(for wechat cover)"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/spiral+shuzijianzao(for wechat cover).png" alt="SHUZIJIANZAO" width="200"></a>
+  <br>
+  Reseacher
+  <br>
+</h1>
+
+#### Awareness & Emotion
+#### Art & Humanities
+#### Business & Management
+#### Chemistry & Materials Science
+#### Earth Sciences & Geography
+#### Economics & Finance
+#### Engineering & Computer Science
+#### Life Sciences & Biology
+#### Medical & Health Sciences
+#### Physics & Mathematics 
+#### Social Sciences & Psychology
 
 >* Anthropology
->>* Applied Psychology
->>>* Archaeology
+>* Applied Psychology
+>* Archaeology
 * Behavioural Neuroscience
 * Biological Psychiatry
 * Cellular & Molecular Neuroscience
